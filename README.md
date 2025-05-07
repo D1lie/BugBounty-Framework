@@ -1,29 +1,9 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-	<title></title>
-	<meta name="generator" content="LibreOffice 25.2.2.2 (Linux)"/>
-	<meta name="created" content="00:00:00"/>
-	<meta name="changed" content="2025-05-07T23:40:20.085393425"/>
-	<style type="text/css">
-		@page { size: 8.27in 11.69in; margin-left: 0.79in; margin-right: 0.39in; margin-top: 0.39in; margin-bottom: 0.39in }
-		p { margin-bottom: 0.1in; line-height: 115%; background: transparent }
-		h1 { margin-bottom: 0.08in; background: transparent; page-break-after: avoid }
-		h1.western { font-family: "Liberation Serif", serif; font-size: 24pt; font-weight: bold }
-		h1.cjk { font-family: "Noto Serif CJK SC"; font-size: 24pt; font-weight: bold }
-		h1.ctl { font-size: 24pt; font-family: "FreeSans"; font-weight: bold }
-		a:link { color: #000080; text-decoration: underline }
-		a:visited { color: #800000; text-decoration: underline }
-	</style>
-</head>
-<body lang="en-US" link="#000080" vlink="#800000" dir="ltr"><h1 class="western" align="center">
-<img src="logo.png" name="Image1" alt="Screenshot of Framework" width="507" height="507" border="0"/>
-
+<h1 align="center">
+  <a href="https://www.linkedin.com/in/raja-d-b64b281a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="logo.png" width="200px" alt="D1lie Logo"></a>
+  <br>
+  The D1lie Framework
+  <br>
 </h1>
-<h1 class="western" align="center">The D1lie Framework <br/>
-<br/>
-<br/>
 
 </h1>
 <p align="center"><img src="Add_FQDN.png" name="Image2" alt="Screenshot of Framework" align="bottom" width="669" height="265" border="0"/>
@@ -32,9 +12,9 @@
 
 <img src="Dashboard.png" name="Image4" alt="Screenshot of Framework" align="bottom" width="688" height="410" border="0"/>
 
-<img src="CVE_Testing.png" name="Image5" alt="Screenshot of Framework" width="665" height="530" border="0"/>
+<img src="CVE_Testing.png" name="Image5" alt="Screenshot of Framework" align="bottom" width="665" height="530" border="0"/>
 
-<img src="Recon.png" name="Image6" alt="Screenshot of Framework" width="656" height="472" border="0"/>
+<img src="Recon.png" name="Image6" alt="Screenshot of Framework" align="bottom" width="656" height="472" border="0"/>
 
 </p>
 <p>Howdy! I am paimon (D1lie) when I want to feel cooler than I
