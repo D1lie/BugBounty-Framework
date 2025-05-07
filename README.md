@@ -2,7 +2,7 @@
   <br>
   The D1lie Framework
   <br>
-  <a><img src="d1lie.png" width="200px" alt="D1lie Logo"></a>
+  <p align="center"><img src="d1lie.png" width="200px" alt="D1lie Logo"></P>
 </h1>
 
 </h1>
