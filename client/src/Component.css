@@ -1,0 +1,34 @@
+
+.checklistStyle {
+    display: inline-block;
+    min-height: 800px;
+    overflow-y: scroll;
+    border: 1px solid black;
+    margin: 10px;
+    vertical-align: top;
+}
+
+.workTableStyle {
+    display: inline-block;
+    min-height: 800px;
+    border: 1px solid black;
+    margin: 10px;
+    vertical-align: top;
+}
+
+.finished {
+    text-decoration: line-through;
+}
+
+#active {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.dashboard{
+    min-width: 1800px;
+    min-height: 800px;
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+}
