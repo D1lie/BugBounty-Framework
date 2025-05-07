@@ -18,7 +18,52 @@
 <img src="Recon.png" name="Image6" alt="Screenshot of Framework" align="bottom" width="656" height="472" border="0"/>
 
 </p>
-<p>Howdy! I am paimon (D1lie) when I want to feel cooler than I
+
+## Quick Start
+
+Paste this code block into a clean installation of [Kali Linux 2023.4](https://www.kali.org/get-kali/#kali-installer-images) to download, install, and run the latest stable Alpha version of the framework:
+```
+sudo apt update && sudo apt-get update
+sudo apt -y upgrade && sudo apt-get -y upgrade
+git clone https://github.com/D1lie/The-D1lie-Framework.git 
+cd The-D1lie-Framework
+./install.sh
+```
+
+## Install
+
+The D1lie Framework includes a script that installs all the necessary tools, packages, etc. that are needed to run the framework on a clean installation of [Kali Linux 2023.4](https://www.kali.org/get-kali/#kali-installer-images).
+
+***Please note that the only supported installation of this framework is on a clean installation of Kali Linux 2023.3.  If you choose to try and run the framework outside of a clean Kali install, I will not be able to help troubleshoot if you have any issues.***
+
+```
+./install.sh
+```
+
+**If you are using an ARM Processor, you will need to add the --arm flag to all Install/Run scripts**
+
+```
+./install.sh --arm
+```
+
+You will be prompted to enter various API keys and tokens when the installation begins.  **Entering these is not required to run the core functionality of the framework.  If you do not enter these API keys and tokens at the time of installation, simply hit enter at each of the prompts.  The keys can be added later to the `~/.keys` directory.  More information about how to add these keys manually can be found in the [Frequently Asked Questions](#faq) section of this README.** 
+
+## Run the Web Application (Client and Server)
+
+Once the installation is complete, you will be given the option to run the application by entering `Y`.  If you choose not the run the application immediately, or if you need to run the application after a reboot, simply navigate to the root directly and run the `run.sh` bash script.
+
+```
+./run.sh
+```
+
+**If you are using an ARM Processor, you will need to add the --arm flag to all Install/Run scripts**
+
+```
+./run.sh --arm
+```
+
+
+Howdy! I am paimon (D1lie) when I want to feel cooler than I
 really am. The code in this repository started as a small collection
 of scripts to help automate many of the common Bug Bounty hunting
 processes I found myself repeating. Over time, I built a simple web
