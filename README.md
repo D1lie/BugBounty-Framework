@@ -1,12 +1,10 @@
 <h1 align="center">
- <p>
-  <img src="d1lie.png" width="200px" alt="D1lie Logo">
- </p>
+ <a>
+  <img src="d1lie.png" width="200px" alt="D1lie Logo"></a>
   <br>
   The D1lie Framework
   <br>
 </h1>
-
 
 
 <p align="center"><img src="Add_FQDN.png" name="Image2" alt="Screenshot of Framework" align="bottom" width="669" height="265" border="0"/>
