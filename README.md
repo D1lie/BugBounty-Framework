@@ -25,7 +25,7 @@ Paste this code block into a clean installation of [Kali Linux 2023.4](https://w
 ```
 sudo apt update && sudo apt-get update
 sudo apt -y upgrade && sudo apt-get -y upgrade
-git clone https://github.com/D1lie/The-D1lie-Framework.git 
+git@github.com:D1lie/BugBounty-Framework.git 
 cd The-D1lie-Framework
 ./install.sh
 ```
